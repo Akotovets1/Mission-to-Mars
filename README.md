@@ -21,5 +21,5 @@ Using BeautifulSoup, Splinter, and Pandas to scrape full-resolution images of Ma
 3. The [app.py](https://github.com/Akotovets1/Mission-to-Mars/blob/main/app.py) file
 
 
-4. The [index.html](https://github.com/Akotovets1/Mission-to-Mars/blob/main/index.html) file in the template folder and any CSS stylesheets
+4. The [index.html](https://github.com/Akotovets1/Mission-to-Mars/tree/main/templates/index.html) file in the template folder and any CSS stylesheets
 
